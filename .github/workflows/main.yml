@@ -1,4 +1,4 @@
-name: time-push
+name: daily_remind
 on:
   workflow_dispatch:
   schedule: 
